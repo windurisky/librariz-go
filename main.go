@@ -7,6 +7,7 @@ import (
 	"os"
 
 	"github.com/windurisky/librariz-go/routes"
+	"github.com/gin-gonic/gin"
 )
 
 func main() {
