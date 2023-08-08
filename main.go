@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/harshcasper/golang-docker-template/routes"
+	"github.com/windurisky/librariz-go/routes"
 )
 
 func main() {

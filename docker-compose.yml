@@ -2,7 +2,7 @@ version: '3'
 
 services:
   app:
-    image: harshcasper/golang-docker-template
+    image: windurisky/librariz-go
     build:
       context: .
       dockerfile: Dockerfile

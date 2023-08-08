@@ -1,3 +1,3 @@
-module github.com/harshcasper/golang-docker-template
+module github.com/windurisky/librariz-go
 
 go 1.17

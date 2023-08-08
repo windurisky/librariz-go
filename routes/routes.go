@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/harshcasper/golang-docker-template/app"
+	"github.com/windurisky/librariz-go/app"
 )
 
 type Handler = func(writer http.ResponseWriter, request *http.Request)
